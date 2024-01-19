@@ -1,0 +1,19 @@
+.mega {
+  margin-top: 2%;
+  width: 100%;
+}
+
+.title {
+  text-align: center;
+  margin-top: 2%;
+}
+
+.img1 {
+  width: 90%;
+  margin-left: 6%;
+  margin-right: 6%;
+  border-radius: 10px;
+}
+.section-padding {
+  padding: 100px 0;
+}

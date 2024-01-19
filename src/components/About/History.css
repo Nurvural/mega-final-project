@@ -1,0 +1,19 @@
+h2 {
+    color: #312f2fd0;
+
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 4%;
+    color: rgb(71, 124, 71);
+}
+
+.text {
+    font-size: medium;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}

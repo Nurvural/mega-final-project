@@ -1,0 +1,82 @@
+{
+  "meram":[
+    {
+      "id": 1,
+      "img": "/src/assets/img/meram-sonbahar.jpg",
+      "title": "Meramda Sonbahar"
+    },
+    {
+        "id": 2,
+        "img": "/src/assets/img/meram-kis.jpg",
+        "title": "Meramda Kış"
+      },
+      {
+        "id": 3,
+        "img": "/src/assets/img/meram-koprüsü.jpg",
+        "title": "Meram Köprüsü"
+      },
+      {
+        "id": 4,
+        "img": "/src/assets/img/meram-türbe.jpg",
+        "title": "AteşBazı Veli Türbesi"
+      },{
+        "id": 5,
+        "img": "/src/assets/img/akyokus.jpg",
+        "title": "Akyokuş"
+      },
+      {
+          "id": 6,
+          "img": "/src/assets/img/park.jpg",
+           "title": "80 Binde Devri Alem"
+        },
+        {
+          "id": 7,
+          "img": "/src/assets/img/meram3.jpg",
+          "title": "4 Mevsim Meram"
+        },
+        {
+          "id": 8,
+          "img": "/src/assets/img/meram.jpg",
+          "title": "Meram"
+        }
+],
+ "home":[
+ 
+  {
+      "id": 2,
+      "img": "/src/assets/img/3.jpg",
+      "title": "10 Adet Açık Hali Saha Yapımı"
+    },
+    {
+      "id": 3,
+      "img": "/src/assets/img/1.jpg",
+      "title": "6 Adet Açık Hali Saha Yapımı"
+    },
+    {
+      "id": 4,
+      "img": "/src/assets/img/8.jpg",
+      "title": "Tantavi Kültür ve Sanat Merkezi"
+    },
+    {
+        "id": 6,
+        "img": "/src/assets/img/5.jpg",
+         "title": "Harmancık Pazar Yeri ve Sosyal Tesisi"
+      },
+    
+      {
+        "id": 8,
+        "img": "/src/assets/img/7.jpg",
+        "title": "Yenice Parkı"
+      }
+ ],
+ "contact":[
+  
+    {
+      "id": 1,
+      "address": "Yenişehir Mah. Azerbaycan Cad. No: 5 42010 Meram / KONYA",
+      "phone":  "0332 320 10 00",
+      "email": "bizimmeram@meram.bel.tr"
+    }
+
+ ]
+}
